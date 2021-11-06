@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geek-WL
-- 👀 I’m interested in JS/Vue/Node
-- 🌱 I’m currently learning webpack/TS
+- 👀 I’m interested in JS/TS/Vue
+- 🌱 I’m currently learning VUE3/TS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
