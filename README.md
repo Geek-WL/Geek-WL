@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS/TS/Vue
 - 🌱 I’m currently learning VUE3/TS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 614987834@qq.com
 
 <!---
 Geek-WL/Geek-WL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
